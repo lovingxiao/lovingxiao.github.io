@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Theme Dream</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Hugo Theme Dream</description>
+    <title>tag1 on Hugo Theme Dream</title>
+    <link>https://example.com/tags/tag1/</link>
+    <description>Recent content in tag1 on Hugo Theme Dream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Dec 2020 11:19:59 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,15 +36,6 @@
       
       <guid>https://example.com/post/%E6%B9%96%E5%8D%97/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>My First Blog</title>
-      <link>https://example.com/post/my-first-blog/</link>
-      <pubDate>Mon, 14 Dec 2020 16:20:21 +0800</pubDate>
-      
-      <guid>https://example.com/post/my-first-blog/</guid>
-      <description>fashofshaoho </description>
     </item>
     
   </channel>
