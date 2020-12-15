@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Theme Dream</title>
-    <link>https://example.com/</link>
+    <link>https://lovingxiao.github.io/</link>
     <description>Recent content on Hugo Theme Dream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Dec 2020 11:19:59 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lovingxiao.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>青海</title>
-      <link>https://example.com/post/%E9%9D%92%E6%B5%B7/</link>
+      <link>https://lovingxiao.github.io/post/%E9%9D%92%E6%B5%B7/</link>
       <pubDate>Tue, 15 Dec 2020 11:19:59 +0800</pubDate>
       
-      <guid>https://example.com/post/%E9%9D%92%E6%B5%B7/</guid>
+      <guid>https://lovingxiao.github.io/post/%E9%9D%92%E6%B5%B7/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>贵州：</title>
-      <link>https://example.com/post/%E8%B4%B5%E5%B7%9E/</link>
+      <link>https://lovingxiao.github.io/post/%E8%B4%B5%E5%B7%9E/</link>
       <pubDate>Tue, 15 Dec 2020 11:19:44 +0800</pubDate>
       
-      <guid>https://example.com/post/%E8%B4%B5%E5%B7%9E/</guid>
+      <guid>https://lovingxiao.github.io/post/%E8%B4%B5%E5%B7%9E/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>湖南</title>
-      <link>https://example.com/post/%E6%B9%96%E5%8D%97/</link>
+      <link>https://lovingxiao.github.io/post/%E6%B9%96%E5%8D%97/</link>
       <pubDate>Tue, 15 Dec 2020 11:19:11 +0800</pubDate>
       
-      <guid>https://example.com/post/%E6%B9%96%E5%8D%97/</guid>
+      <guid>https://lovingxiao.github.io/post/%E6%B9%96%E5%8D%97/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>My First Blog</title>
-      <link>https://example.com/post/my-first-blog/</link>
+      <link>https://lovingxiao.github.io/post/my-first-blog/</link>
       <pubDate>Mon, 14 Dec 2020 16:20:21 +0800</pubDate>
       
-      <guid>https://example.com/post/my-first-blog/</guid>
+      <guid>https://lovingxiao.github.io/post/my-first-blog/</guid>
       <description>fashofshaoho </description>
     </item>
     
